@@ -2,7 +2,7 @@
 
 📄 **Undergraduate Dissertation by Syed Muhammad Haider Razvi**  
 🎓 BSc (Hons) in Cyber Security & Digital Forensics, Middlesex University  
-📅 Completed: July 2025
+📅 Completed: April 2025
 
 ## 🔍 Abstract
 This dissertation explores forensic techniques applied in dark web investigations, focusing on challenges such as anonymity, encryption, volatile memory, and legal constraints. It assesses key methodologies including memory forensics, OSINT, network traffic analysis, and cryptocurrency tracing. The work evaluates ISO/IEC digital forensics standards and emerging technologies like AI and blockchain analytics.
